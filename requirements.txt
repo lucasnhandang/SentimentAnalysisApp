@@ -1,0 +1,28 @@
+Django==4.2.2
+djangorestframework>=3.14.0
+djangorestframework-simplejwt>=5.2.0
+django-cors-headers>=3.15.0
+
+# Machine learning / NLP
+torch>=2.0.0
+torchtext>=0.15.0
+transformers>=4.30.0
+sentencepiece>=0.1.98
+
+# Data and utilities
+pandas>=2.0.0
+openpyxl>=3.0.10
+scikit-learn>=1.1.0
+nltk>=3.8.0
+langdetect>=1.0.9
+autocorrect>=2.6.0
+vncorenlp>=0.1.0
+
+# Google Generative AI client (Gemini)
+google-generativeai>=0.1.0
+
+# Convenience
+python-dotenv>=1.0.0
+
+# Optional / testing
+pytest>=7.0.0
