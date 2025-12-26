@@ -91,11 +91,6 @@ Files changed
 - Updated root README: [README.md](README.md)
 - Added Python dependencies: [requirements.txt](requirements.txt)
 
-Contact
-If you want, I can:
-- refactor `base/predict.py` to accept configurable paths and lazy-load models, or
-- create a `.env.example` and a small management command to pre-load models.
-
 License / attribution
 This repository contains third-party models and tools; follow their licenses (torch, torchtext, VnCoreNLP, and Google AI usage rules).
 
